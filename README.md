@@ -22,11 +22,6 @@
 </div>
 
 ###
-<!-- SPOTIFY -->
-<h1 align="center">Hey There 👋</h1>
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31anpvecqlmgvu5b44tqqhhcvzwm)
-
-###
 
 <br clear="both">
 
@@ -35,8 +30,6 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
-
-###
 
 <p align="left">I'm Kaysi from the Philippines<br><br>🎓 3rd-year IT student<br>💻 Loves Java, Web-dev, designing, and debugging<br>🎮 Enjoys building, exploring, and making mini-projects<br>📚 Currently learning JavaFX, React, JavaScript, Node.js<br>✨ Goal: become a well-rounded Full-stack Developer or Software Developer<br>😻I love cats!!!</p>
 
